@@ -30,7 +30,7 @@ public class ToDoTest {
 	
 	
   @Test(priority=0)
-  public void getToDoList_001() {
+  public void createToDoList_001() {
 	  
 	  tp.createToDo("buy groceries");
 	  tp.createToDo("Wash dishes");

@@ -5,11 +5,12 @@
     <classes>
       <class name="testcases.ToDoTest">
         <methods>
-          <include name="afterMethod"/>
-          <include name="beforeMethod"/>
-          <include name="editToDoList"/>
+          <include name="clearToDoList_004"/>
+          <include name="createToDoList_001"/>
           <include name="beforeClass"/>
+          <include name="getToDoListCount_003"/>
           <include name="afterClass"/>
+          <include name="getToDoListItems_002"/>
         </methods>
       </class> <!-- testcases.ToDoTest -->
     </classes>
